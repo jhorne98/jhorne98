@@ -3,7 +3,7 @@
 <!--
 **jhorne98/jhorne98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-A Short Resumé :minidisk:
+A Short Resumé :minidisc:
 - Graduated from York College of Pennsylvania with a B.S. in Computer Science, 2020
 - Worked on the [YCAS Radio Telescope Project](https://github.com/YCPRadioTelescope), 2019-20
 - Important work on undergraduate projects
